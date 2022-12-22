@@ -1,1 +1,1 @@
-echo "Hello, world!"
+start cmd /k echo "Hello, World!"
